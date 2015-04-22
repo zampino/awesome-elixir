@@ -627,10 +627,10 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [secure_random](https://github.com/patricksrobertson/secure_random.ex) - Convenience library for random base64 strings modeled after my love for Ruby's SecureRandom.
 * [simetric](https://github.com/lexmag/simetric) - String similarity metrics for Elixir.
 * [slugger](https://github.com/h4cc/slugger) - ![](http://elixir-badges.herokuapp.com/badges/slugger/licenses.svg) Slugger can generate slugs from given strings that can be used in URLs or file names.
-* [tau](https://github.com/FranklinChen/tau) - Provide the famous mathematical constant, tau, τ = 6.2831....
-* [tomlex](https://github.com/zamith/tomlex) - A TOML parser for Elixir.
-* [uuid](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
-* [uuid_erl](https://github.com/okeuday/uuid) - Erlang Native UUID Generation.
+* [tau](https://github.com/FranklinChen/tau) - ![](http://elixir-badges.herokuapp.com/badges/tau/licenses.svg)Provide the famous mathematical constant, tau, τ = 6.2831....
+* [tomlex](https://github.com/zamith/tomlex) - ![](http://elixir-badges.herokuapp.com/badges/tomlex/licenses.svg)A TOML parser for Elixir.
+* [uuid](https://github.com/zyro/elixir-uuid) - ![](http://elixir-badges.herokuapp.com/badges/uuid/licenses.svg)UUID generator and utilities for Elixir.
+* [uuid_erl](https://github.com/okeuday/uuid) - ![](http://elixir-badges.herokuapp.com/badges/uuid_erl/licenses.svg)Erlang Native UUID Generation.
 
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
