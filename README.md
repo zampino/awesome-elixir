@@ -431,6 +431,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [trailing_format_plug](https://github.com/mschae/trailing_format_plug) - An Elixir plug to support legacy APIs that use a rails-like trailing format.
 * [webassembly](https://github.com/herenowcoder/webassembly) - Web DSL for Elixir.
 * [weebo](https://github.com/stevenschobert/weebo) - An XML-RPC parser/formatter for Elixir, with full support for datatype mapping.
+* [pastelli](https//github.com/zampino/pastelli) - An Elixir Plug adapter for Elli, with a focus on EventSource and WebSockets
 
 ## Frameworks
 *Web development frameworks.*
